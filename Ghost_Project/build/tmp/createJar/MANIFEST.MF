@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Ghost Project
+Implementation-Version: 
+Main-Class: myCode.GhostSkeleton
+
